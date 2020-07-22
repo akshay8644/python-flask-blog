@@ -1,0 +1,30 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/thor",
+    "prod_uri": "mysql://root:@localhost/thor",
+    "fb_url": "https://facebook.com/Sanrozlifescience",
+    "tw_url": "https://twitter.com/Sanrozlifescience",
+    "gh_url": "https://github.com/Sanrozlifescience",
+    "blog_name": "Sanroz",
+    "tag_line": "Sanroz life science",
+    "cp_right": "Sanroz",
+    "gmail-user": "thomasshelby8644@gmail.com",
+    "gmail-password": "akshay8644007",
+    "about_text": "This is a website for sanroz life science",
+    "no_of_posts": 2,
+    "login_image": "login2.svg",
+    "admin_user": "akshay",
+    "admin_password": "akshay8644",
+    "upload_location": "C:\\Users\\acer\\PycharmProjects\\flask-tut\\static"
+
+
+
+  }
+
+
+
+
+
+}
